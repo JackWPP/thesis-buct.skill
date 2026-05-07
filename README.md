@@ -1,4 +1,4 @@
-# thesis-buct
+# thesis-buct.skill
 
 <p align="center">
   <img src="./assets/readme-hero.png" alt="北京化工大学毕业论文构建工具链插图" width="100%">
